@@ -1,0 +1,1 @@
+# GLPI_POC_Plugins_Shell
